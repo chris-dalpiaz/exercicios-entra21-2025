@@ -1,0 +1,1 @@
+Exercício 1 = Listar os números de 1 até 10 usando FOR.
